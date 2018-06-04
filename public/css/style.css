@@ -148,7 +148,7 @@ aside a[href^="http"]:after,.doc a[href^="http"]:after{content:url(/assets/image
     font-size: 14px;
     background: #00adff;
     width: 30%;
-    height: 40px;
+    height: 80px;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -401,3 +401,4 @@ html {
     padding: 20px;
     margin: 10px;
 }
+
